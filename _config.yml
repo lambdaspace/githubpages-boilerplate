@@ -1,12 +1,12 @@
 # Site settings
-title: Mozilla Campus Clubs
-email: participation@mozilla.com
+title: Lambdaspace boilerplate
+email: email
 description: >
-    Get involved with the Campus initiatives at Mozilla
-baseurl: ""
-url: "https://campus.mozilla.community"
-twitter_username: mozparticipate
-github_username:  mozilla
+    description
+baseurl: "" # Add your URL
+url: "" #Add your URL
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
