@@ -10,9 +10,9 @@ Clone the repo
 
 To install the dependencies. First you need change your directory to mozilla-campus-clubs
 
-``$ cd githubpages-boilerplate
+``$ cd githubpages-boilerplate``
 
-  $ bundle install``
+``$ bundle install``
 
 Build the site using the following developer config
 
