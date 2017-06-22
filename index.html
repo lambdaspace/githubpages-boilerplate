@@ -3,6 +3,14 @@ layout: index
 title: Mozilla Campus Clubs
 ref: index
 ---
+<div>
+{% for post in site.posts %}
+
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ post.excerpt }}
+
+{% endfor %}
+</div>
 
 {% capture index %}{% include index.md %}{% endcapture %}
 {{ index | markdownify }}
