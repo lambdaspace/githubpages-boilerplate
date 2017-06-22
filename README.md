@@ -1,4 +1,3 @@
-# Mozilla Campus Clubs
 
 ## Hack the site
 
@@ -21,8 +20,7 @@ Build the site using the following developer config
 This builds the website under the `_site` folder. The simplest way to browse it is to use python's http server. For that. you can follow the following steps
 
 ```
-cd _site
-python3 -m http.server
+bundle exec jekyll serve
 ```
 
 You will be able to access the site at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
