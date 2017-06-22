@@ -6,12 +6,13 @@ Thank you for contributing! Just follow these simple steps
 
 Clone the repo
 
-``$ git clone https://github.com/mozilla/mozilla-campus-clubs``
+``$ git clone https://github.com/lambdaspace/githubpages-boilerplate.git``
 
 To install the dependencies. First you need change your directory to mozilla-campus-clubs
 
-``$ cd mozilla-campus-clubs
-  $ bundle install``
+``$ cd githubpages-boilerplate``
+
+``$ bundle install``
 
 Build the site using the following developer config
 
