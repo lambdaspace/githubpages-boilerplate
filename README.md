@@ -1,4 +1,3 @@
-# Mozilla Campus Clubs
 
 ## Hack the site
 
@@ -6,12 +5,13 @@ Thank you for contributing! Just follow these simple steps
 
 Clone the repo
 
-``$ git clone https://github.com/mozilla/mozilla-campus-clubs``
+``$ git clone https://github.com/lambdaspace/githubpages-boilerplate.git``
 
 To install the dependencies. First you need change your directory to mozilla-campus-clubs
 
-``$ cd mozilla-campus-clubs
-  $ bundle install``
+``$ cd githubpages-boilerplate``
+
+``$ bundle install``
 
 Build the site using the following developer config
 
@@ -20,8 +20,7 @@ Build the site using the following developer config
 This builds the website under the `_site` folder. The simplest way to browse it is to use python's http server. For that. you can follow the following steps
 
 ```
-cd _site
-python3 -m http.server
+bundle exec jekyll serve
 ```
 
 You will be able to access the site at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
