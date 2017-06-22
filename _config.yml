@@ -3,8 +3,8 @@ title: Lambdaspace boilerplate
 email: email
 description: >
     description
-baseurl: "" # Add your URL
-url: "" #Add your URL
+baseurl: "/githubpages-boilerplate" # Add your URL
+url: "/githubpages-boilerplate" #Add your URL
 twitter_username:
 github_username:
 
